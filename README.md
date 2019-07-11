@@ -1,5 +1,11 @@
 ## About this project ##
 
+This project use Docker-compose to start 4 containers:
+
+* Django-App
+* Postgresql
+* RabbitMQ
+* Redis 
 
 ## Start Containers ##
 
